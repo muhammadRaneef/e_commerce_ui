@@ -31,6 +31,7 @@ class Overview extends StatelessWidget {
             Text("Featured",style: TextStyle(fontSize: 22,fontWeight: FontWeight.w600),),
             Text("Collectio",style: TextStyle(fontSize: 22,fontWeight: FontWeight.w600),),
             Text("Trending",style: TextStyle(fontSize: 22,fontWeight: FontWeight.w600),)
+
             // Tab(text: "Featured", ),
             // Tab(text: "Collection",),
             // Tab(text: "Trending",)
